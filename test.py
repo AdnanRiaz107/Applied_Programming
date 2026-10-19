@@ -8,4 +8,4 @@ elif marks >= 70:
     
 else:
     print("Grade: F")
-    
+    print("You need to work harder.")
