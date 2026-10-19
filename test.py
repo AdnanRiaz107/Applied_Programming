@@ -6,5 +6,6 @@ elif marks >= 80:
 elif marks >= 70:
     print("Grade: C")
     
-
+else:
+    print("Grade: F")
     
